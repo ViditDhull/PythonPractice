@@ -1,0 +1,36 @@
+Shipping address:
+Vidit Dhull
+sadgnn
+SJKABDGFUH
+ADGABDFH
+ASHDGUI
+QEGBHADF
+1244341
+
+Billing address:
+Vidit Dhull
+sadgnn
+SJKABDGFUH
+ADGABDFH
+ASHDGUI
+QEGBHADF
+1244341
+
+Shipping address:
+test 2
+rhadgs
+adsguydfhfj
+adgfbhf
+adgfjadgb
+ahgdjkb
+124411
+
+Billing Address:
+different billing address for test2
+agrhuij
+ashguifjkb
+asugihvjdb
+aughsvfjb
+aghujb
+1235435
+
